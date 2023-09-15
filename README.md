@@ -1,8 +1,13 @@
-# React + Vite
+# Dim-sum Selector
+This is a REACT based one page application for an incremental selector game. The bun can be collected by clicking. Then the user can upgrade certain power-ups based on the count. Last, the user can empty the count and restart the game. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tools and Libraries:
+*  React.js: Built successfully by implementing State Hook feature and Event Hnadling. 
+*  Vite: Provided the REACT environment.
 
-Currently, two official plugins are available:
+## Video Walkthrough
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Here's a walkthrough of implemented features:
+<img src="./assets/walkthrough.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+created with Gifcap 
